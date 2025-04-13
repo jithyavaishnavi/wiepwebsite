@@ -21,7 +21,7 @@ const FooterCTA = () => {
           </h2>
 
           <div className="flex gap-4 flex-wrap">
-            <button className="flex items-center gap-2 px-6 py-[6px] rounded-full bg-[#C8A2C8] text-white text-[14px] hover:bg-black hover:border-[#C8A2C8]hover:shadow-[0_0_10px_rgba(255,255,255,0.3)] transition">
+            <button className="flex items-center gap-2 px-6 py-[6px] rounded-full bg-[#C8A2C8] text-white text-[14px] hover:bg-black hover:border-[#C8A2C8] hover:shadow-[0_0_10px_rgba(255,255,255,0.3)] transition">
               <span>↗ Handbook</span>
             </button>
           </div>
